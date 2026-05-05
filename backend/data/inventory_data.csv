@@ -1,0 +1,6 @@
+SKU,Product_Name,Current_Stock,Reorder_Point,EOQ,Lead_Time_Days,Supplier_Constraint,Warehouse_Location
+SKU-101,Tide Pods 81ct,450,500,1200,4,Max order 2000 units/week due to packaging shortage,WH-TRICHY-01
+SKU-102,Pantene Pro-V Shampoo,2100,1500,3000,2,No current constraints,WH-TRICHY-01
+SKU-103,Gillette Mach3 Blades,150,300,800,7,Customs delay at port adding 3 days to lead time,WH-TRICHY-01
+SKU-104,Pampers Swaddlers Size 4,80,400,2500,3,Priority routing required to maintain OTIF metrics,WH-TRICHY-01
+SKU-105,Crest 3D White Toothpaste,3200,1000,5000,5,Batch testing required before release,WH-TRICHY-01
